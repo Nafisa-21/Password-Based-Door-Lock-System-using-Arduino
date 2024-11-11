@@ -161,10 +161,10 @@ void Open() {
    The door can be manually locked using the `#` key on the keypad, prompting a "Door is closed" message. To unlock, the user must enter the correct password. The system then displays "Door is open" if access is granted.
 
 <h1 align="center">
-   <img src="Picture2.png" width="400" height="400" />
+   <img src="Picture2.jpg" width="400" height="400" />
 </h1>
 <h1 align="center">
-   <img src="Picture3.png" width="400" height="400" />
+   <img src="Picture3.jpg" width="400" height="400" />
 </h1>
 
 ---
